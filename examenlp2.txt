@@ -1,0 +1,9 @@
+1.- Configuración instalación de las herramientas de desarrollo: (práctico)
+        - Sistema de control de versiones(git)
+        - Virtualización de aplicaciones con virtualenvwrapper(virtualenv)
+        - IDE-Editor de texto
+2.- Múltiples Preguntas sobre settings.py                        (teórico)
+3.- Diseñar una plantilla de proyecto Django                     (práctico)
+4.- Subir a github la plantilla                                  (práctica)
+5.- Crear un proyecto desde la plantilla github                  (práctica)
+6.- Instalar una APP(CRUD) en el proyecto django                 (práctica)
